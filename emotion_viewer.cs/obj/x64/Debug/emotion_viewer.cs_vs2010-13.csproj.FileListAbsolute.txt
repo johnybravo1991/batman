@@ -1,0 +1,9 @@
+C:\weeknd\emotion_viewer.cs\bin\x64\Debug\emotion_viewer.cs.exe
+C:\weeknd\emotion_viewer.cs\bin\x64\Debug\emotion_viewer.cs.pdb
+C:\weeknd\emotion_viewer.cs\bin\x64\Debug\libpxcclr.cs.dll
+C:\weeknd\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs_vs2010-13.csprojResolveAssemblyReference.cache
+C:\weeknd\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.MainForm.resources
+C:\weeknd\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.Properties.Resources.resources
+C:\weeknd\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs_vs2010-13.csproj.GenerateResource.Cache
+C:\weeknd\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.exe
+C:\weeknd\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.pdb
